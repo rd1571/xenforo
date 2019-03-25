@@ -1,0 +1,24 @@
+Thank you for purchasing XenForo.
+
+INSTALLING XENFORO
+------------------
+
+For details on how to install XenForo, please visit our manual:
+
+https://xenforo.com/xf2-docs/manual/install-upgrade/#installing-xenforo
+
+UPGRADING XENFORO
+-----------------
+
+For details on how to upgrade an existing XenForo installation,
+please visit our manual:
+
+https://xenforo.com/xf2-docs/manual/install-upgrade/#upgrading-xenforo
+
+QUESTIONS?
+----------
+
+If you have any questions, please see our help section. This lists
+several ways to contact us and get answers.
+
+https://xenforo.com/help/

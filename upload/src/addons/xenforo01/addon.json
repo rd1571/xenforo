@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "xenforo01",
+    "title": "Xenforo Forum Plugin",
+    "description": "",
+    "version_id": 10001,
+    "version_string": "1.0.0",
+    "dev": "",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": ""
+}
